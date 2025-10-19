@@ -7,7 +7,7 @@
 Требуется Java 21
 
 Клонировать репозиторий:
-git clone https://github.com/funduc2/triangle-min-path-finder.git
+git clone https://github.com/funduc2/triangle-min-path-finder.git  
 cd triangle-min-path-finder
 
 Скомпилировать код:
