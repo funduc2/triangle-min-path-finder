@@ -6,12 +6,12 @@
 
 Требуется Java 21
 
-Клонировать репозиторий:
+Клонировать репозиторий: 
 git clone https://github.com/funduc2/triangle-min-path-finder.git  
 cd triangle-min-path-finder
 
-Скомпилировать код:
+Скомпилировать код: 
 javac -d out src/finder/TriangleMinPath.java
 
-Запустить программу:
+Запустить программу: 
 java -cp out finder/TriangleMinPath
